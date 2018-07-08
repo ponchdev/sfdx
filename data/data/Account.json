@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Two",
+            "LocationII__Latitude__s": 44.44444,
+            "LocationII__Longitude__s": 44.4444
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "One",
+            "LocationII__Latitude__s": 12.1212,
+            "LocationII__Longitude__s": 12.1212
+        }
+    ]
+}
